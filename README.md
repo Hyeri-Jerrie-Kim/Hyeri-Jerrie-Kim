@@ -58,7 +58,7 @@
 ### 🛒 **E-Commerce Sales Analysis**
 &nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end data analysis** of an online retail dataset using Pandas, Seaborn, and Plotly.  
 &nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Customer behavior, seasonal trends, and sales performance.  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](#)**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
 
 ### 📊 **Coming Soon: More Data Science Projects!**
 🚀 Stay tuned for exciting projects in **AI, machine learning, and business analytics.**
@@ -69,4 +69,4 @@
 ![Hyeri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeri-jerrie-kim&show_icons=true&theme=radical)
 
 💡 **Let's Connect!**  
-&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyerikim)  
+&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyerikim-ds)  
