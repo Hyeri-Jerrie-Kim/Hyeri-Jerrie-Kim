@@ -17,6 +17,17 @@
 
 ---
 
+## 📂 Featured Projects
+### 🛒 **E-Commerce Sales Analysis**
+&nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end data analysis** of an online retail dataset using Pandas, Seaborn, and Plotly.  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Customer behavior, seasonal trends, and sales performance.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
+
+### **Coming Soon: More Data Science Projects!**
+🚀 Stay tuned for exciting projects in **AI, machine learning, and business analytics.**
+
+---
+
 ## 🛠️ Tech Stack
 ### 🔹 Programming Languages
 &nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,17 +62,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 &nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📂 Featured Projects
-### 🛒 **E-Commerce Sales Analysis**
-&nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end data analysis** of an online retail dataset using Pandas, Seaborn, and Plotly.  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Customer behavior, seasonal trends, and sales performance.  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
-
-### 📊 **Coming Soon: More Data Science Projects!**
-🚀 Stay tuned for exciting projects in **AI, machine learning, and business analytics.**
 
 ---
 
