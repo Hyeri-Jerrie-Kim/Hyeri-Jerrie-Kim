@@ -10,11 +10,11 @@
 ---
 
 ## 📖 Table of Contents
-- [📌 About Me](#-about-me)
-- [📂 Featured Projects](#-featured-projects)
-- [🛠️ Tech Stack](#-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [💡 Let's Connect!](#-lets-connect)
+- [📌 About Me](#about-me)
+- [📂 Featured Projects](#featured-projects)
+- [🛠️ Tech Stack](#tech-stack)
+- [📊 GitHub Stats](#github-stats)
+- [💡 Let's Connect!](#lets-connect)
 
 ---
 
@@ -39,38 +39,59 @@
 
 ## 🛠️ Tech Stack
 ### 🔹 Programming Languages
-&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"><br><b>SQL</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"><br><b>Java</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br><b>HTML</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"><br><b>CSS</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br><b>JavaScript</b></td>
+  </tr>
+</table>
 
 ### 🔹 Data Analysis & Visualization
-&nbsp;&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/-Seaborn-008080?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="40"><br><b>Pandas</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="40"><br><b>NumPy</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="40"><br><b>Matplotlib</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="40"><br><b>Seaborn</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" width="40"><br><b>Tableau</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square" width="60"><br><b>Plotly</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" width="60"><br><b>Power BI</b></td>
+  </tr>
+</table>
+
 
 ### 🔹 AI/ML & Big Data
-&nbsp;&nbsp;&nbsp;&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
-&nbsp;&nbsp;&nbsp;&nbsp;![PySpark](https://img.shields.io/badge/-PySpark-FDEE21?style=flat-square&logo=apache-spark&logoColor=black)
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="40"><br><b>TensorFlow</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="40"><br><b>PyTorch</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" width="40"><br><b>Scikit-learn</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/-PySpark-FDEE21?style=flat-square&logo=apache-spark&logoColor=black" width="60"><br><b>PySpark</b></td>
+  </tr>
+</table>
+
 
 ### 🔹 Databases & Cloud
-&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40"><br><b>MySQL</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" width="40"><br><b>Oracle</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="40"><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="40"><br><b>AWS</b></td>
+  </tr>
+</table>
 
 ### 🔹 DevOps & Others
-&nbsp;&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40"><br><b>Linux</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40"><br><b>Git</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -78,4 +99,4 @@
 ![Hyeri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeri-jerrie-kim&show_icons=true&theme=radical)
 
 💡 **Let's Connect!**  
-&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyerikim-ds)  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/hyerikim-ds)  
