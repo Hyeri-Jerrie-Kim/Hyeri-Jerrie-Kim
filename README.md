@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 About Me
+## <a name="about-me"></a>📌 About Me
 - 🌱 **Always Learning** | Exploring Data Science, AI & Machine Learning  
 - 💡 **Passionate About** Data Analysis, AI, and Visualization  
 - 💬 **Ask Me About** Python, SQL, Data Analytics  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 Featured Projects
+## <a name="featured-projects"></a>📂 Featured Projects
 ### 🛒 **E-Commerce Sales Analysis**
 &nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end data analysis** of an online retail dataset using Pandas, Seaborn, and Plotly.  
 &nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Customer behavior, seasonal trends, and sales performance.  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <a name="tech-stack">🛠️ Tech Stack
 ### 🔹 Programming Languages
 <table>
   <tr>
@@ -95,8 +95,8 @@
 
 ---
 
-## 📊 GitHub Stats  
+## <a name="github-stats"></a>📊 GitHub Stats  
 ![Hyeri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeri-jerrie-kim&show_icons=true&theme=radical)
 
-💡 **Let's Connect!**  
+💡 <a name="lets-connect"></a> **Let's Connect!**  
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/hyerikim-ds)  
