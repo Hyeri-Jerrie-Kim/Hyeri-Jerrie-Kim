@@ -9,6 +9,15 @@
 
 ---
 
+## 📖 Table of Contents
+- [📌 About Me](#-about-me)
+- [📂 Featured Projects](#-featured-projects)
+- [🛠️ Tech Stack](#-tech-stack)
+- [📊 GitHub Stats](#-github-stats)
+- [💡 Let's Connect!](#-lets-connect)
+
+---
+
 ## 📌 About Me
 - 🌱 **Always Learning** | Exploring Data Science, AI & Machine Learning  
 - 💡 **Passionate About** Data Analysis, AI, and Visualization  
@@ -30,7 +39,7 @@
 
 ## 🛠️ Tech Stack
 ### 🔹 Programming Languages
-&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
