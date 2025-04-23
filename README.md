@@ -32,6 +32,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Customer behavior, seasonal trends, and sales performance.  
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
 
+### 🩺 **Diabetes Risk Prediction**
+&nbsp;&nbsp;&nbsp;&nbsp;🔬 **End-to-end machine learning pipeline** using ensemble models to predict diabetes from patient health data.  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Glucose and BMI identified as top predictors. Achieved 83% AUC using soft voting classifier.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  
+
 ### **Coming Soon: More Data Science Projects!**
 🚀 Stay tuned for exciting projects in **AI, machine learning, and business analytics.**
 
