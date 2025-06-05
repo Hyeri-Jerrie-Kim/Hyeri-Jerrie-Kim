@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Hyeri! 👋</h1>
 
 <p align="center">
-  <b>🚀 Data Analyst | Data Scientist</b><br>
+  <b>🚀 Data Scientist | Data Analyst</b><br>
   🎓 Studied Artificial Intelligence at Centennial College, Toronto 🇨🇦
 </p>
 
@@ -19,9 +19,9 @@
 ---
 
 ## <a name="about-me"></a>📌 About Me
-- 🌱 **Always Learning** | Exploring Data Science, AI & Machine Learning  
-- 💡 **Passionate About** Data Analysis, AI, and Visualization  
-- 💬 **Ask Me About** Python, SQL, Data Analytics  
+- 🧠 **Aspiring Data Scientist** with a strong foundation in machine learning, data analytics, and statistical modeling  
+- 🔍 **Experienced in end-to-end workflows**—from data cleaning and EDA to model training, tuning, and interpretation
+- 📊 Passionate about **delivering actionable insights** through data-driven storytelling and visualizations
 - 📫 **Reach Me At** [![Email](https://img.shields.io/badge/Email-hyeri5524%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:hyeri5524@gmail.com)
 
 ---
@@ -33,8 +33,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
 
 ### 🩺 **Diabetes Risk Prediction**
-&nbsp;&nbsp;&nbsp;&nbsp;🔬 **End-to-end machine learning pipeline** using ensemble models to predict diabetes from patient health data.  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Glucose and BMI identified as top predictors. Achieved 83% AUC using soft voting classifier.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔬  **End-to-end classification pipeline** to assess diabetes risk from patient health records, featuring robust preprocessing, outlier clipping, SMOTE balancing, ensemble learning, and classification threshold tuning.   
+&nbsp;&nbsp;&nbsp;&nbsp;📈 **Key Insights:** Achieved **85% recall** using a SMOTE-enhanced soft voting classifier with a tuned threshold (0.35), making it suitable for early screening. Glucose, BMI, and Age were identified as most impactful features via SHAP analysis.
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  
 
 ### **Coming Soon: More Data Science Projects!**
