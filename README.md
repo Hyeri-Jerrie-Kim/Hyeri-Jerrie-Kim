@@ -34,7 +34,7 @@
 
 ### 🩺 **Diabetes Risk Prediction**
 &nbsp;&nbsp;&nbsp;&nbsp;🔬  **End-to-end classification pipeline** to assess diabetes risk from patient health records, featuring robust preprocessing, outlier clipping, SMOTE balancing, ensemble learning, and classification threshold tuning.   
-&nbsp;&nbsp;&nbsp;&nbsp;📈 **Key Insights:** Achieved **85% recall** using a SMOTE-enhanced soft voting classifier with a tuned threshold (0.35), making it suitable for early screening. Glucose, BMI, and Age were identified as most impactful features via SHAP analysis.
+&nbsp;&nbsp;&nbsp;&nbsp;📈 **Key Insights:** Achieved **85% recall** using a SMOTE-enhanced soft voting classifier with a tuned threshold (0.35), making it suitable for early screening. Glucose, BMI, and Age were identified as most impactful features via SHAP analysis.   
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  
 
 ### **Coming Soon: More Data Science Projects!**
