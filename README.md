@@ -28,8 +28,8 @@
 
 ## <a name="featured-projects"></a>📂 Featured Projects
 ### 🛒 **E-Commerce Sales Analysis**
-&nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end data analysis** of an online retail dataset using Pandas, Seaborn, and Plotly.  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Customer behavior, seasonal trends, and sales performance.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end e-commerce analytics** of 541,000+ transactions to uncover sales trends and segment customers by value. Built machine learning models to identify high-value buyers and boost marketing ROI by over 2x.   
+&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Strong seasonal peaks (November), mid-week sales surges, and high-value purchases concentrated during business hours. RFM and clustering revealed distinct customer groups, while LightGBM modeling enabled precise targeting for marketing efficiency.   
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
 
 ### 🩺 **Diabetes Risk Prediction**
