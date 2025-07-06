@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Hyeri! 👋</h1>
 
 <p align="center">
-  <b>🚀 Data Scientist | Data Analyst</b><br>
+  <b>🚀 Cloud Engineer | Data Scientist</b><br>
   🎓 Studied Artificial Intelligence at Centennial College, Toronto 🇨🇦
 </p>
 
