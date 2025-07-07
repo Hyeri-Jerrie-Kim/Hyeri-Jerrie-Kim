@@ -19,26 +19,35 @@
 ---
 
 ## <a name="about-me"></a>📌 About Me
-- 🧠 **Aspiring Data Scientist** with a strong foundation in machine learning, data analytics, and statistical modeling  
-- 🔍 **Experienced in end-to-end workflows**—from data cleaning and EDA to model training, tuning, and interpretation
-- 📊 Passionate about **delivering actionable insights** through data-driven storytelling and visualizations
+- 🧠 **Aspiring Data & Cloud Engineer** with a strong foundation in machine learning, data analytics, and cloud technologies
+- ☁️ Skilled in **Python, SQL, and AWS services (EC2, S3, IAM, Glue, Lambda)**, and experienced in designing end-to-end data workflows
+- 🔧 Focused on cloud engineering and building **scalable, data-driven applications** that deliver real-world impact
+- 📊 Enthusiastic about **translating complex data into insights and practical solutions** through data storytelling and visualization
 - 📫 **Reach Me At** [![Email](https://img.shields.io/badge/Email-hyeri5524%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:hyeri5524@gmail.com)
 
 ---
 
 ## <a name="featured-projects"></a>📂 Featured Projects
 ### 🛒 **E-Commerce Sales Analysis**
-&nbsp;&nbsp;&nbsp;&nbsp;🔍 **End-to-end e-commerce analytics** of 541,000+ transactions to uncover sales trends and segment customers by value. Built machine learning models to identify high-value buyers and boost marketing ROI by over 2x.   
-&nbsp;&nbsp;&nbsp;&nbsp;📊 **Key Insights:** Strong seasonal peaks (November), mid-week sales surges, and high-value purchases concentrated during business hours. RFM and clustering revealed distinct customer groups, while LightGBM modeling enabled precise targeting for marketing efficiency.   
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)**  
+| **Techniques** | RFM Segmentation, K-Means Clustering, Predictive Modeling with LightGBM, ROI Simulation |
+|-------------------------------|-----------------------------------------------------------------------------------|
+| **Tech Stack** | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, LightGBM, SHAP, PowerBI |
+| **Description** | End-to-end e-commerce analytics of 541,000+ transactions to uncover sales trends and segment customers by value. Built machine learning models to identify high-value buyers and boost marketing ROI by over 2x. |
+| **Key Insights** | Strong seasonal peaks (November), mid-week sales surges, and high-value purchases concentrated during business hours. RFM and clustering revealed distinct customer groups, while LightGBM modeling enabled precise targeting for marketing efficiency. |
+| **GitHub** | 🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)** |
 
 ### 🩺 **Diabetes Risk Prediction**
-&nbsp;&nbsp;&nbsp;&nbsp;🔬  **End-to-end classification pipeline** to assess diabetes risk from patient health records, featuring robust preprocessing, outlier clipping, SMOTE balancing, ensemble learning, and classification threshold tuning.   
-&nbsp;&nbsp;&nbsp;&nbsp;📈 **Key Insights:** Achieved **85% recall** using a SMOTE-enhanced soft voting classifier with a tuned threshold (0.35), making it suitable for early screening. Glucose, BMI, and Age were identified as most impactful features via SHAP analysis.   
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  
 
-### **Coming Soon: More Data Science Projects!**
-🚀 Stay tuned for exciting projects in **AI, machine learning, and business analytics.**
+| **Techniques** | SMOTE, Threshold Tuning, Soft Voting Ensemble, SHAP Explainability |
+|-------------------------------|-----------------------------------------------------------------------------------|
+| **Tech Stack** | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn (SMOTE), SHAP |
+| **Description** | End-to-end machine learning pipeline to predict diabetes risk from patient health records, focused on early screening and clinical interpretability. |
+| **Key Insights** | Achieved 85% recall using a SMOTE-enhanced soft voting classifier with a tuned threshold (0.35), making it suitable for early screening. Glucose, BMI, and Age were identified as most impactful features via SHAP analysis. |
+| **GitHub** | 🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  |
+
+
+### **🚀 New Projects Loading!**
+Stay tuned for hands-on explorations in AI, machine learning, cloud engineering, and business analytics.
 
 ---
 
