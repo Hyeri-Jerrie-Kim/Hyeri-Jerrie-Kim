@@ -33,12 +33,13 @@
 
 ## <a name="featured-projects"></a>📂 Featured Projects
 ### 🛒 **E-Commerce Sales Analysis**
-| **Techniques** | Exploratory Data Analysis (EDA), RFM Segmentation, K-Means Clustering, Business Insights |
-|-------------------------------|-----------------------------------------------------------------------------------|
-| **Tech Stack** | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Power BI |
-| **Description** | End-to-end business analytics of 541K transactions to uncover seasonal sales trends, product concentration, and customer segments. Focused on turning exploration into actionable insights for marketing and retention strategy. |
-| **Key Insights** | Sales peaked in November and were most active mid-week during business hours. About 20 percent of products generated nearly 80 percent of revenue. RFM and K-Means segmentation revealed four customer groups: Dormant, Newcomers, Loyalists, and High Spenders, guiding data-driven marketing and retention strategies. |
-| **GitHub** | 🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)** |
+
+| Category | Key Achievements & Strategic Insights |
+| :--- | :--- |
+| **Strategic Impact** | • **Product Pareto**: Validated that **20.9%** of SKUs drive **78.9%** of revenue.<br>• **Marketing Timing**: Identified **"Golden Window" (Tue-Thu, 10-15h)** for peak $ROI$.<br>• **Customer Segment**: Clustered 4K+ customers into **3 actionable tiers** via **K-Means ML**.<br>• **Market Expansion**: Diagnosed 82% UK dependency and prioritized EU market entry. |
+| **Technical Excellence** | • **Data Pipeline**: Automated 11 visual assets export with **Python & Kaleido**.<br>• **Modeling**: Applied **Log Transformation** & **StandardScaler** for skewed RFM data. |
+| **Tech Stack** | • Python (Pandas, Scikit-learn), Power BI (Star Schema), Plotly 3D, SQL |
+| **GitHub** | 🔗 **[View Full Project Repo](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)** |
 
 ### 🩺 **Diabetes Risk Prediction**
 
@@ -47,7 +48,7 @@
 | **Tech Stack** | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn (SMOTE), SHAP |
 | **Description** | Machine learning pipeline for diabetes risk prediction using clinical data, designed for early screening and interpretability in healthcare settings. |
 | **Key Insights** | Achieved **90% recall** through SMOTE-based data rebalancing and threshold optimization (0.30), reducing missed diabetic cases from **47%** to **10%**. SHAP analysis confirmed **Glucose, BMI,** and **Age** as the strongest predictors of diabetes risk. |
-| **GitHub** | 🔗 **[View on GitHub](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  |
+| **GitHub** | 🔗 **[View Full Project Repo](https://github.com/Hyeri-Jerrie-Kim/supervised-learning/tree/main/diabetes-risk-prediction)**  |
 
 
 ### **🚀 New Projects Loading!**
