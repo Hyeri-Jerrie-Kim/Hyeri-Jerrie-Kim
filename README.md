@@ -16,7 +16,6 @@
 - [📌 About Me](#about-me)
 - [📂 Featured Projects](#featured-projects)
 - [🛠️ Tech Stack](#tech-stack)
-- [📊 GitHub Stats](#github-stats)
 - [💡 Let's Connect!](#lets-connect)
 
 ---
@@ -40,6 +39,15 @@
 | **Technical Excellence** | • **Data Pipeline**: Automated 11 visual assets export with **Python & Kaleido**.<br>• **Modeling**: Applied **Log Transformation** & **StandardScaler** for skewed RFM data. |
 | **Tech Stack** | • Python (Pandas, Scikit-learn), Power BI (Star Schema), Plotly 3D, SQL |
 | **GitHub** | 🔗 **[View Full Project Repo](https://github.com/Hyeri-Jerrie-Kim/ecommerce-sales-analysis.git)** |
+
+### 📉 Tech Layoffs Data Pipeline & Analytics
+
+| Category | Key Achievements & Strategic Insights |
+| :--- | :--- |
+| **Strategic Impact** | • **Contraction Velocity:** Identified Q3 2022 inflection point where cumulative layoffs surged globally.<br>• **Burn-Rate Risk:** Segmented 100% startup liquidations from enterprise margin-defense cuts.<br>• **Sector Shift:** Mapped macro downturn migration from Consumer/Crypto to Enterprise Tech.<br>• **Capital Runway:** Proved venture capital volume did not protect high-burn startups from collapse. |
+| **Technical Excellence** | • **Safe & Repeatable Pipeline:** Built 2-stage staging in MySQL to bypass CTE limits and guarantee safe reruns.<br>• **Defensive Hygiene:** Standardized entity labels, validated ISO dates, and imputed 100% missing industries via Self-JOIN.<br>• **Trend & Ranking Analytics:** Eliminated rank skipping in executive reports using multi-level CTEs and `DENSE_RANK()`. |
+| **Tech Stack** | • MySQL 8.0, Advanced SQL (CTEs, Window Functions, Self-JOINs), Data Hygiene, Staging Architecture, Git |
+| **GitHub** | 🔗 **[View Full Project Repo](https://github.com/Hyeri-Jerrie-Kim/tech-layoffs-sql-pipeline)** |
 
 ### 🩺 **Diabetes Risk Prediction**
 
@@ -113,9 +121,6 @@ Stay tuned for hands-on explorations in AI, machine learning, cloud engineering,
 </table>
 
 ---
-
-## <a name="github-stats"></a>📊 GitHub Stats  
-![Hyeri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeri-jerrie-kim&show_icons=true&theme=radical)
 
 💡 <a name="lets-connect"></a> **Let's Connect!**  
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/hyerikim-ds)  
