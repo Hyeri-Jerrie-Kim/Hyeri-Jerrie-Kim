@@ -47,7 +47,7 @@
 | **Strategic Impact** | • **Contraction Velocity:** Identified Q3 2022 inflection point where cumulative layoffs surged globally.<br>• **Burn-Rate Risk:** Segmented 100% startup liquidations from enterprise margin-defense cuts.<br>• **Sector Shift:** Mapped macro downturn migration from Consumer/Crypto to Enterprise Tech.<br>• **Capital Runway:** Proved venture capital volume did not protect high-burn startups from collapse. |
 | **Technical Excellence** | • **Safe & Repeatable Pipeline:** Built 2-stage staging in MySQL to bypass CTE limits and guarantee safe reruns.<br>• **Defensive Hygiene:** Standardized entity labels, validated ISO dates, and imputed 100% missing industries via Self-JOIN.<br>• **Trend & Ranking Analytics:** Eliminated rank skipping in executive reports using multi-level CTEs and `DENSE_RANK()`. |
 | **Tech Stack** | • MySQL 8.0, Advanced SQL (CTEs, Window Functions, Self-JOINs), Data Hygiene, Staging Architecture, Git |
-| **GitHub** | 🔗 **[View Full Project Repo](https://github.com/Hyeri-Jerrie-Kim/tech-layoffs-sql-pipeline.git)** |
+| **GitHub** | 🔗 **[View Full Project Repo](https://github.com/Hyeri-Jerrie-Kim/sql-tech-layoffs-pipeline.git)** |
 
 ### 🩺 **Diabetes Risk Prediction**
 
